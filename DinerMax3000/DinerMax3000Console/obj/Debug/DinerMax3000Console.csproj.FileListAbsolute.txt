@@ -1,0 +1,11 @@
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.exe.config
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.exe
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.pdb
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.csprojAssemblyReference.cache
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.csproj.CoreCompileInputs.cache
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.exe
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.pdb
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000BusinessLayer.dll.config
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.csproj.CopyComplete

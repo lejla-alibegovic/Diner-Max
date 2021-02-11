@@ -1,0 +1,7 @@
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\DinerMax3000BusinessLayer.dll.config
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\Lejla\Desktop\kurs\DinerMax3000\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.pdb

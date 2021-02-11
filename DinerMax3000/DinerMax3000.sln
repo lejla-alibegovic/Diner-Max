@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinerMax3000Console", "DinerMax3000Console\DinerMax3000Console.csproj", "{D9814697-2A96-4B73-AA42-6DAE3F255CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinerMax3000BusinessLayer", "DinerMax3000BusinessLayer\DinerMax3000BusinessLayer.csproj", "{1A9CE25C-3C36-44D8-958D-C42CAE555EAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinerMax3000WPFClient", "DinerMax3000WPFClient\DinerMax3000WPFClient.csproj", "{FA1F100E-CC62-4956-B2FC-D5B3E3A94A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinerMax3000Services", "DinerMax3000Services\DinerMax3000Services.csproj", "{859A32EE-78DC-4A0D-B09F-45F19FE4034B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinerMax3000UnitTest", "DinerMax3000UnitTest\DinerMax3000UnitTest.csproj", "{2B16356D-8DC9-47E8-B406-52E3317BC971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinerMax3000Web", "DinerMax3000Web2\DinerMax3000Web.csproj", "{A14D7716-B470-4E4A-9F3E-BEE0B946B4C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9814697-2A96-4B73-AA42-6DAE3F255CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9814697-2A96-4B73-AA42-6DAE3F255CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9814697-2A96-4B73-AA42-6DAE3F255CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9814697-2A96-4B73-AA42-6DAE3F255CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9CE25C-3C36-44D8-958D-C42CAE555EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9CE25C-3C36-44D8-958D-C42CAE555EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9CE25C-3C36-44D8-958D-C42CAE555EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9CE25C-3C36-44D8-958D-C42CAE555EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1F100E-CC62-4956-B2FC-D5B3E3A94A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1F100E-CC62-4956-B2FC-D5B3E3A94A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1F100E-CC62-4956-B2FC-D5B3E3A94A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1F100E-CC62-4956-B2FC-D5B3E3A94A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859A32EE-78DC-4A0D-B09F-45F19FE4034B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859A32EE-78DC-4A0D-B09F-45F19FE4034B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859A32EE-78DC-4A0D-B09F-45F19FE4034B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859A32EE-78DC-4A0D-B09F-45F19FE4034B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B16356D-8DC9-47E8-B406-52E3317BC971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B16356D-8DC9-47E8-B406-52E3317BC971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B16356D-8DC9-47E8-B406-52E3317BC971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B16356D-8DC9-47E8-B406-52E3317BC971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14D7716-B470-4E4A-9F3E-BEE0B946B4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14D7716-B470-4E4A-9F3E-BEE0B946B4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14D7716-B470-4E4A-9F3E-BEE0B946B4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14D7716-B470-4E4A-9F3E-BEE0B946B4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E700C09-3610-406C-A371-2A471A92A7E2}
+	EndGlobalSection
+EndGlobal
